@@ -62,8 +62,6 @@ npm install
 # Run the project
 npm start
 
-
-
 📁 Project Structure
 📦 divar
 ├── 📁 public
@@ -77,9 +75,5 @@ npm start
 ├── package.json
 ├── main.js
 └── README.md
-
-
-
-
 
 ```
