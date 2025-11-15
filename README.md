@@ -12,6 +12,14 @@ A simple frontend layer is implemented using **EJS** for server-side rendering.
   <img src="doc/demo/demo-divar.gif" width="350" />
 </p>
 
+📚 API Documentation (Swagger)
+After running the project, Swagger is available at:
+
+http://localhost:3400/swagger
+
+📄 Swagger UI Preview:
+![Swagger Screenshot](doc/demo/swagger.png)
+
 ---
 
 ## 🚀 Features
@@ -54,13 +62,7 @@ npm install
 # Run the project
 npm start
 
-📚 API Documentation (Swagger)
-After running the project, Swagger is available at:
 
-http://localhost:3400/swagger
-
-📄 Swagger UI Preview:
-![Swagger Screenshot](https://github.com/mohammadjavad-gorgani/divar/blob/1b88d97a85823d9d6640be30ae64b7cb2266a896/doc/demo/swagger.png)
 
 📁 Project Structure
 📦 divar
