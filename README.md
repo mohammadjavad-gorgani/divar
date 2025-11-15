@@ -9,7 +9,7 @@ A simple frontend layer is implemented using **EJS** for server-side rendering.
 ## 🎥 Demo
 
 <p align="center">
-  <img src="doc/demo/bot-divar.gif" width="350" />
+  <img src="doc/demo/demo-divar.gif" width="350" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ After running the project, Swagger is available at:
 http://localhost:3400/swagger
 
 📄 Swagger UI Preview:
-![Swagger Screenshot](./doc/swagger.png)
+![Swagger Screenshot](doc/demo/swagger.png)
 
 📁 Project Structure
 📦 divar
