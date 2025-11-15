@@ -60,7 +60,7 @@ After running the project, Swagger is available at:
 http://localhost:3400/swagger
 
 📄 Swagger UI Preview:
-![Swagger Screenshot](doc/demo/swagger.png)
+![Swagger Screenshot](.doc/demo/swagger.png)
 
 📁 Project Structure
 📦 divar
