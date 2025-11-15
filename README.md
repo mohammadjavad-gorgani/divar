@@ -60,7 +60,7 @@ After running the project, Swagger is available at:
 http://localhost:3400/swagger
 
 📄 Swagger UI Preview:
-![Swagger Screenshot](.doc/demo/swagger.png)
+![Swagger Screenshot](https://github.com/mohammadjavad-gorgani/divar/blob/1b88d97a85823d9d6640be30ae64b7cb2266a896/doc/demo/swagger.png)
 
 📁 Project Structure
 📦 divar
