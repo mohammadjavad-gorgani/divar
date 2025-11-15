@@ -1,9 +1,9 @@
-const {Router} = require("express");
-const {AuthRouter} = require("./modules/auth/auth.routes");
-const {UserRouter} = require("./modules/user/user.routes");
-const {CategoryRouter} = require("./modules/category/category.routes");
-const {OptionRoutes} = require("./modules/option/option.routes");
-const {PostRouter} = require("./modules/post/post.routes");
+const { Router } = require("express");
+const { AuthRouter } = require("./modules/auth/auth.routes");
+const { UserRouter } = require("./modules/user/user.routes");
+const { CategoryRouter } = require("./modules/category/category.routes");
+const { OptionRoutes } = require("./modules/option/option.routes");
+const { PostRouter } = require("./modules/post/post.routes");
 const Authorization = require("./common/guard/authorization.guard");
 const postController = require("./modules/post/post.controller");
 const mainRouter = Router();
